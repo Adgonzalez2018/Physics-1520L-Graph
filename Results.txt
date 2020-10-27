@@ -1,0 +1,7 @@
+Average Time: 198.99
+Average ln(v): 0.66
+Standard Deviation for Time: 174.91
+Standard Deviation for Voltage: 1.12
+Standard Deviation for the difference in Time collected: 29.83
+Standard Deviation for ln(v): 0.622
+Slope: -0.003557
