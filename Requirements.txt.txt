@@ -1,4 +1,0 @@
-matplotlib
-matplotlib import style
-numpy
-pandas
